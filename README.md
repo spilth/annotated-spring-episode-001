@@ -38,6 +38,8 @@ Spring Boot also lets us create a self-running JAR, making it easy to distribute
     $ mvn package
     $ java -jar target/demo-0.0.1-SNAPSHOT.jar
 
+Next Episode: [Spring Boot Web Application QuickStart](https://github.com/spilth/annotated-spring-episode-002)
+
 ## Resources
 
 - [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
